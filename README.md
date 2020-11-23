@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**faizan-code/faizan-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
@@ -20,4 +17,4 @@ I am Faizan Ashraf. My main interest lies in Data Science, Machine Learning and 
 - 📫 How to reach me: You can contact me Through Linkedin. Or mail me at go2faizanashraf@gmail.com
 - 😄 Pronouns: You can give me one.
 - ⚡ Fun fact: I can sing you a song for u If u want because I love singing.
--->
+
