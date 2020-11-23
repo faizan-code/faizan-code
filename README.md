@@ -2,8 +2,8 @@
 <html>
 <head
 <h1>hi</h1>
-      </head>
-    </html>
+</head>
+</html>
 
 I am Faizan Ashraf. My main interest lies in Data Science, Machine Learning and Computer vision. I also have good knowledge of Tableau, Python. I am always curious to learn something new.
 
