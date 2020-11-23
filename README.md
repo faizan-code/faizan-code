@@ -1,10 +1,7 @@
 ### Hi there 👋
 <html>
 <head
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/faizan-ashraf-5290971aa/"
+<h1>hi
       </head>
     </html>
 
