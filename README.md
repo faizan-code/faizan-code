@@ -1,9 +1,12 @@
 ### Hi there 👋
-
+<html>
+<head
 [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
     link = "https://www.linkedin.com/in/faizan-ashraf-5290971aa/"
+      </head>
+    </html>
 
 I am Faizan Ashraf. My main interest lies in Data Science, Machine Learning and Computer vision. I also have good knowledge of Tableau, Python. I am always curious to learn something new.
 
