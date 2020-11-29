@@ -11,5 +11,5 @@
 - 💬 Ask me about Python,  Data Science, Java, Frontend Development. 
 - 📫 How to reach me: You can contact me Through Linkedin. Or mail me at go2faizanashraf@gmail.com
 - 😄 Pronouns: You can give me one.
-- ⚡ Fun fact: I can sing you a song for u If u want because I love singing.
+- ⚡ Fun fact: I can sing you a song If u want because I love singing.
 
