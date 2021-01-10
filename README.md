@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there this is 👋
 # Faizan Ashraf ![Profile views](https://gpvc.arturio.dev/Zeeshan-2k1)
 
 My name is Faizan Ashraf and currently, I am pursuing my Btech in Computer Science from GIET UNIVERSITY Gunupur. Now I am learning Data Science and ML. I am always eager to learn new technology and enhancing my knowledge. I have done two Internships in the field of Data Science and ML and currently, I am working as a Software Engineer Intern at ENR Consultancy UK.
