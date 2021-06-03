@@ -11,7 +11,7 @@ My name is Faizan Ashraf and currently, I am pursuing my Btech in Computer Scien
 - 🌱 I’m currently learning Computer vision
 - 👯 I’m looking to collaborate on Data Science and Ml projects.
 - 🤔 I’m looking for help with Computer Vision.
-- 💬 Ask me about Python,  Data Science, Java, Frontend Development. 
+- 💬 Ask me about Python,  Data Science, Java, Frontend Development, Django, NLP. 
 - 📫 How to reach me: You can contact me Through Linkedin. Or mail me at go2faizanashraf@gmail.com
 - 😄 Pronouns: You can give me one.
 - ⚡ Fun fact: I can sing you a song If u want because I love singing.
