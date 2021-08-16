@@ -25,7 +25,12 @@ My name is Faizan Ashraf and currently, I am pursuing my Btech in Computer Scien
 - ⚡ Fun fact: I can sing you a song If u want .
 
 
+
+
+
 ![coffee code](https://user-images.githubusercontent.com/51138087/93663687-87a63100-fa1e-11ea-841c-88dbd3e76d02.gif)
+
+
 
 
 
@@ -48,6 +53,9 @@ My name is Faizan Ashraf and currently, I am pursuing my Btech in Computer Scien
 - Azure
 - GCP
 - Data Analysis
+
+
+
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=faizan-code&show_icons=true)  
