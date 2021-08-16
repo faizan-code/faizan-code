@@ -16,7 +16,7 @@ My name is Faizan Ashraf and currently, I am pursuing my Btech in Computer Scien
 
 
 
-[![Gmail Badge](https://img.shields.io/badge/-mmirthula02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mmirthula02@gmail.com)](mailto:go2faizanashraf@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-go2faizanashraf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:go2faizanashraf@gmail.com)](mailto:go2faizanashraf@gmail.com)
 
 
 
