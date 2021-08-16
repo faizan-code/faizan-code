@@ -15,6 +15,11 @@ My name is Faizan Ashraf and currently, I am pursuing my Btech in Computer Scien
 [![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/faizan-ashraf-5290971aa/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![twitter](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/ttt.png)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![kaggle](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/kaggle.png)](https://www.kaggle.com/faizanashraf/account)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:go2faizanashraf@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![HackerRank](https://github.com/faizan-code/git_learn/blob/master/3_download.png)](https://www.hackerrank.com/go2faizanashraf)
 
 
+
+[![Gmail Badge](https://img.shields.io/badge/-mmirthula02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mmirthula02@gmail.com)](mailto:go2faizanashraf@gmail.com)
+
+
+
 - 🔭 I’m currently working on Ml and Data Sciene Projects
 - 🌱 I’m currently learning Computer vision
 - 👯 I’m looking to collaborate on Data Science and Ml projects.
