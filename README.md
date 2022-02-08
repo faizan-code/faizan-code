@@ -1,7 +1,12 @@
 ### Hi there 👋 this is 
-# Faizan Ashraf ![Profile views](https://gpvc.arturio.dev/Zeeshan-2k1)
+# Faizan Ashraf ![Profile views](https://gpvc.arturio.dev/faizan-code)
 
-My name is Faizan Ashraf and currently, I am pursuing my Btech in Computer Science from GIET UNIVERSITY Gunupur. Now I am learning Data Science and ML. I am always eager to learn new technology and enhancing my knowledge. I have done two Internships in the field of Data Science and ML and currently, I am working as a Software Engineer Intern at ENR Consultancy UK.
+My name is Faizan Ashraf and currently, I am pursuing my Btech in Computer Science from GIET UNIVERSITY Gunupur.I have good Expertise in Data Science and ML. I am always eager to learn new technology and enhancing my knowledge. I have done two Internships in the field of Data Science and ML and currently, I am working as a ML Engineer at Brane Enterprise PvT ltd.
+
+Also I have good Experience in Team Building and love to work in teams.
+
+I am Also Google Developer Student Club Lead and also got a chance to work as Google Cloud Facilitator
+[![Google](https://github.com/faizan-code/git_learn/blob/master/DSC%20GIETU%2C%20GUNUPUR%20Logo%20x1.png)]
 <br />
 
 
