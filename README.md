@@ -6,7 +6,7 @@ My name is Faizan Ashraf and currently, I am pursuing my Btech in Computer Scien
 Also I have good Experience in Team Building and love to work in teams.
 
 I am Also Google Developer Student Club Lead and also got a chance to work as Google Cloud Facilitator
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Google](https://github.com/faizan-code/git_learn/blob/master/DSC%20GIETU%2C%20GUNUPUR%20Logo%20x1.png)]
+&nbsp;(https://github.com/faizan-code/git_learn/blob/master/DSC%20GIETU%2C%20GUNUPUR%20Logo%20x1.png)]
 <br />
 
 
